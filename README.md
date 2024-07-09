@@ -1,0 +1,1 @@
+You may run the program with either the Python file or the .exe file on Windows. Running the Python file allows you to read/modify the code, but requires that you have Python and any necessary dependencies installed on your machine. Running the .exe file is as simple as downloading it and running in on Windows.
